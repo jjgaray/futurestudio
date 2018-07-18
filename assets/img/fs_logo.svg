@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="720px"
+	 height="720px" viewBox="0 0 720 720" enable-background="new 0 0 720 720" xml:space="preserve">
+
+	
+
+		<style type="text/css">
+
+		@-webkit-keyframes left{
+			0% {-webkit-transform: translateX(100px);opacity:0;}
+			75%{opacity:1;}
+   		 	100% {-webkit-transform: translateX(0px);opacity:1;}
+   		}
+
+	 	.F{
+	 		fill:#361a12;
+	 		-webkit-animation: left 1s  ease-in forwards;
+		    -webkit-animation-duration:1s;
+		    -webkit-animation-timing-function:linear;
+		    transform-origin: center;
+
+	 	}
+
+
+		@-webkit-keyframes right{
+			0% {-webkit-transform: translateX(-100px);opacity:0;}
+			75%{opacity:1;}
+   		 	100% {-webkit-transform: translateX(0px);opacity:1;}
+   		}
+
+	 	.S{
+	 		fill:#361a12;
+	 		-webkit-animation: right 1s  ease-in forwards;
+		    -webkit-animation-duration:1s;
+		    -webkit-animation-timing-function:linear;
+		    transform-origin: center;
+
+	 	}
+
+		@-webkit-keyframes center{
+			0% {-webkit-transform: translateX(0px);opacity:0;}
+			40%{opacity:0;}
+			75%{opacity:1;}
+   		 	100% {-webkit-transform: translateX(0px);opacity:1;}
+   		}
+
+	 	.C{
+	 		fill:#361a12;
+	 		-webkit-animation: center 1.3s  ease-in forwards;
+		    -webkit-animation-duration:1.3s;
+		    -webkit-animation-timing-function:linear;
+		    transform-origin: center;
+
+	 	}
+	 	.box{
+	 		fill:#361a12;
+	 	}
+
+
+
+
+	</style>
+
+
+
+<g id="Layer_3">
+	<g>
+		<polygon class="F" points="335.333,442 335.333,489 251,489 251,524 373.12,524 373.12,409 469,409 469,376 335.333,376 		"/>
+		<rect class="C" x="335" y="293" width="134" height="37.333"/>
+		<polygon class="S" points="373.12,210 321.648,210 251,210 251,211 251,442 251,443 291.5,443 291.5,244 469,244 469,210 		"/>
+	</g>
+</g>
+<g id="Layer_4" class="box">
+	<path d="M56.105,54.106v610.469h610.469V54.106H56.105z M605.078,602.579H119.102V116.603h485.976V602.579z"/>
+</g>
+</svg>
